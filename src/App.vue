@@ -9,7 +9,17 @@
   padding:0 !important;
   margin:0 !important;
 }
+.v-input__icon > .mdi-email {
+  color : #383e6b !important;
+} 
 
+.v-input__icon > .mdi-account {
+  color : #383e6b !important;
+} 
+
+.v-input__icon > .mdi-lock {
+  color : red !important;
+}
 </style>
 
 <script>

@@ -123,16 +123,6 @@ export default {
   opacity: 1;
 }
 
-.v-input__icon > .mdi-email {
-  color : red !important;
-} 
-
-.v-input__icon > .mdi-account {
-  color : red !important;
-} 
-
-.v-input__icon > .mdi-lock {
-  color : red !important;
-}
+ 
 
 </style>
